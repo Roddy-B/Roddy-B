@@ -9,8 +9,10 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Roddy-B&langs_count=8&theme=dark" />
 </div>
 
+<div style="marginTop: 20px">
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=javascript,typescript,react,html,css,python,django" />
   </a>
 </p>
+</div>
