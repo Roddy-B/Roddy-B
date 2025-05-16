@@ -1,7 +1,6 @@
-### Hey na boa? 👋
+### 👋
 
-- 🔭 I’m currently working on frontend
-- 🌱 I’m currently learning Springboot, Django and Typescript
+- 🔭 I’m a frontend developer
 
 <div>
   <a href="https://github.com/Roddy-B">
